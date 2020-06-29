@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDP-Cleaner", "RDP-Cleaner.csproj", "{7D54A637-1BFB-42A0-8EC7-D3C7AB86617F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D54A637-1BFB-42A0-8EC7-D3C7AB86617F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D54A637-1BFB-42A0-8EC7-D3C7AB86617F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D54A637-1BFB-42A0-8EC7-D3C7AB86617F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D54A637-1BFB-42A0-8EC7-D3C7AB86617F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644019C6-E0CC-41C2-904B-0C29D48E41F7}
+	EndGlobalSection
+EndGlobal
